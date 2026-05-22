@@ -128,9 +128,9 @@ function Footer() {
                 Hyderabad
               </p>
 
-              <p>support@ayush.com</p>
+              <p>info@ayushcms.com</p>
 
-              <p>+91 99999 23450</p>
+              <p>+91 9666655590</p>
             </div>
           </div>
         </div>
