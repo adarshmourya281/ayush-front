@@ -30,7 +30,7 @@ function Contact() {
                 </h4>
 
                 <p className="text-gray-500">
-                  support@healthcare.com
+                  info@ayushcms.com
                 </p>
               </div>
 
@@ -40,7 +40,7 @@ function Contact() {
                 </h4>
 
                 <p className="text-gray-500">
-                  +91 99999 23450
+                  +91 9666655590
                 </p>
               </div>
 
